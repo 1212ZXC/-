@@ -1,0 +1,1 @@
+esp32_stm32g4_0701\startup_stm32g431xx.o: startup_stm32g431xx.s

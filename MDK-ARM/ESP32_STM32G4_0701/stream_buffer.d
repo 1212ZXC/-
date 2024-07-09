@@ -1,0 +1,14 @@
+esp32_stm32g4_0701\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+esp32_stm32g4_0701\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+esp32_stm32g4_0701\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+esp32_stm32g4_0701\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+esp32_stm32g4_0701\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+esp32_stm32g4_0701\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+esp32_stm32g4_0701\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+esp32_stm32g4_0701\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+esp32_stm32g4_0701\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+esp32_stm32g4_0701\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+esp32_stm32g4_0701\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+esp32_stm32g4_0701\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+esp32_stm32g4_0701\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+esp32_stm32g4_0701\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
